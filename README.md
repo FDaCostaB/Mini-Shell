@@ -1,4 +1,4 @@
-# Mini-Shell
+# Mini-Shell (02/2021)
 A mini-shell coded in C
 
 Compiling via the Makefile
